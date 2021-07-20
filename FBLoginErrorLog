@@ -1,0 +1,62 @@
+2021-07-13 17:30:45.814094+0800 FBSDKTest[410:20271] Built from '2019.4/china_unity/release' branch, Version '2019.4.7f1 (c96ffa5b8cd5)', Build type 'Release', Scripting Backend 'il2cpp'
+-> applicationDidFinishLaunching()
+2021-07-13 17:30:46.259074+0800 FBSDKTest[410:20271] FBSDKLog: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/ios/getting-started#step-3---configure-your-project to learn how to implement this change.
+2021-07-13 17:30:46.350675+0800 FBSDKTest[410:20271] FBSDKLog: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/ios/getting-started#step-3---configure-your-project to learn how to implement this change.
+-> applicationDidBecomeActive()
+2021-07-13 17:30:46.453037+0800 FBSDKTest[410:20271] FBSDKLog: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/ios/getting-started#step-3---configure-your-project to learn how to implement this change.
+GfxDevice: creating device client; threaded=1
+Initializing Metal device caps: Apple A12 GPU
+Initialize engine version: 2019.4.7f1 (c96ffa5b8cd5)
+2021-07-13 17:30:47.751803+0800 FBSDKTest[410:20499] [Client] Updating selectors after delegate removal failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 87 named com.apple.commcenter.coretelephony.xpc was invalidated from this process." UserInfo={NSDebugDescription=The connection to service on pid 87 named com.apple.commcenter.coretelephony.xpc was invalidated from this process.}
+2021-07-13 17:30:47.752044+0800 FBSDKTest[410:20499] [Client] Updating selectors after delegate addition failed with: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service on pid 87 named com.apple.commcenter.coretelephony.xpc was invalidated from this process." UserInfo={NSDebugDescription=The connection to service on pid 87 named com.apple.commcenter.coretelephony.xpc was invalidated from this process.}
+2021-07-13 17:30:47.891903+0800 FBSDKTest[410:20501] [connection] nw_endpoint_handler_set_adaptive_read_handler [C1.1.2 31.13.82.1:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0, ipv4, dns)] unregister notification for read_timeout failed
+2021-07-13 17:30:47.892143+0800 FBSDKTest[410:20501] [connection] nw_endpoint_handler_set_adaptive_write_handler [C1.1.2 31.13.82.1:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0, ipv4, dns)] unregister notification for write_timeout failed
+2021-07-13 17:30:47.896184+0800 FBSDKTest[410:20501] [connection] nw_endpoint_handler_set_adaptive_read_handler [C2.1.1 31.13.82.1:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0, ipv4, dns)] unregister notification for read_timeout failed
+2021-07-13 17:30:47.896320+0800 FBSDKTest[410:20501] [connection] nw_endpoint_handler_set_adaptive_write_handler [C2.1.1 31.13.82.1:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0, ipv4, dns)] unregister notification for write_timeout failed
+2021-07-13 17:30:47.903923+0800 FBSDKTest[410:20501] [connection] nw_endpoint_handler_set_adaptive_read_handler [C3.1.1 31.13.82.1:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0, ipv4, dns)] unregister notification for read_timeout failed
+2021-07-13 17:30:47.903974+0800 FBSDKTest[410:20501] [connection] nw_endpoint_handler_set_adaptive_write_handler [C3.1.1 31.13.82.1:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0, ipv4, dns)] unregister notification for write_timeout failed
+2021-07-13 17:30:47.953824+0800 FBSDKTest[410:20271] Unbalanced calls to begin/end appearance transitions for <UnityViewControllerStoryboard: 0x104a0d0f0>.
+2021-07-13 17:30:47.954604+0800 FBSDKTest[410:20495] [connection] nw_endpoint_handler_set_adaptive_read_handler [C4.1.1 172.81.232.209:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0, ipv4, dns)] unregister notification for read_timeout failed
+2021-07-13 17:30:47.954793+0800 FBSDKTest[410:20495] [connection] nw_endpoint_handler_set_adaptive_write_handler [C4.1.1 172.81.232.209:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0, ipv4, dns)] unregister notification for write_timeout failed
+2021-07-13 17:30:48.209113+0800 FBSDKTest[410:20501] FBSDKLog: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/ios/getting-started#step-3---configure-your-project to learn how to implement this change.
+2021-07-13 17:30:48.273996+0800 FBSDKTest[410:20495] FBSDKLog: fb-messenger-share-api is missing from your Info.plist under LSApplicationQueriesSchemes and is required.
+2021-07-13 17:30:48.488954+0800 FBSDKTest[410:20495] [connection] nw_endpoint_handler_set_adaptive_read_handler [C5.1.1 31.13.82.1:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0, ipv4, dns)] unregister notification for read_timeout failed
+2021-07-13 17:30:48.489130+0800 FBSDKTest[410:20495] [connection] nw_endpoint_handler_set_adaptive_write_handler [C5.1.1 31.13.82.1:443 ready channel-flow (satisfied (Path is satisfied), viable, interface: en0, ipv4, dns)] unregister notification for write_timeout failed
+UnloadTime: 0.157875 ms
+Using Facebook Unity SDK v11.0.0 with FBiOSSDK/11.0.1
+Facebook.Unity.CompiledFacebookLoader:Start()
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2021-07-13 17:30:49.861952+0800 FBSDKTest[410:20498] [connection] nw_resolver_start_query_timer_block_invoke [C4.1] Query fired: did not receive all answers in time for splash.unity.cn:443
+FB  初始化完成=True
+<>c:<Start>b__0_0()
+Facebook.Unity.InitDelegate:Invoke()
+Facebook.Unity.FacebookDelegate`1:Invoke(T)
+Facebook.Unity.CallbackManager:TryCallCallback(Object, IResult)
+Facebook.Unity.CallbackManager:CallCallback(Object, IResult)
+Facebook.Unity.CallbackManager:OnFacebookResponse(IInternalResult)
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2021-07-13 17:30:49.871496+0800 FBSDKTest[410:20498] [connection] nw_resolver_start_query_timer_block_invoke [C4.2] Query fired: did not receive all answers in time for splash.unity.cn:443
+2021-07-13 17:31:02.899887+0800 FBSDKTest[410:20271] -canOpenURL: failed for URL: "fbauth2:/" - error: "The operation couldn’t be completed. (OSStatus error -10814.)"
+-> applicationWillResignActive()
+-> applicationDidBecomeActive()
+FB LoginError: Invalid ID token from login response.
+<>c:<OnButtonClicked>b__1_0(ILoginResult)
+Facebook.Unity.FacebookDelegate`1:Invoke(T)
+Facebook.Unity.CallbackManager:TryCallCallback(Object, IResult)
+Facebook.Unity.CallbackManager:CallCallback(Object, IResult)
+Facebook.Unity.CallbackManager:OnFacebookResponse(IInternalResult)
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+FB RawResult: {"error":"Invalid ID token from login response.","callback_id":"2"}
+Facebook.Unity.FacebookDelegate`1:Invoke(T)
+Facebook.Unity.CallbackManager:TryCallCallback(Object, IResult)
+Facebook.Unity.CallbackManager:CallCallback(Object, IResult)
+Facebook.Unity.CallbackManager:OnFacebookResponse(IInternalResult)
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
