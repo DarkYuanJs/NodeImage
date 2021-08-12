@@ -1,0 +1,27 @@
+  问题：安卓启动闪退
+  log：
+    (Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+2021-08-11 16:29:52.671 890-6325/? E/Unity: Using memoryadresses from more than 16GB of memory
+    UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+    Solar.Runtime.PrefabLoadManager:InstanceGO(PrefabObject, Transform)
+    XLua.CSObjectWrap.SolarRuntimeAssetComponentWrap:_m_LoadPrefabSync(IntPtr)
+    XLua.LuaDLL.Lua:lua_pcall(IntPtr, Int32, Int32, Int32)
+    XLua.DelegateBridge:PCall(IntPtr, Int32, Int32, Int32)
+    XLua.DelegateBridge:__Gen_Delegate_Imp4()
+    System.Action:Invoke()
+    Solar.Runtime.LuaBehaviour:Proc()
+    Solar.Runtime.UIManager:UpdateUnModalUIList()
+    Solar.Runtime.UIManager:Update()
+
+
+
+    测试流程
+    手机：三星手机安卓11系统  三星开启debug方式： 拨号键*#9900# 选择 debuglevel选项
+
+    aab包 debuglevel 中和高必崩溃，低无问题
+    apk包 debuglevel 低中高 都不会崩溃
+
+    unity升级到 Unity 2019.4.29f1c1 (64-bit)
+
+    aab和apk 在debuglevel 各个阶段都无崩溃现象
+

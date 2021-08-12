@@ -1,0 +1,572 @@
+2021-08-10 15:01:15.693 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:15.699 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:15.703 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:15.794 18558-18558/? E/e.process.gapp: Not starting debugger since process cannot load the jdwp agent.
+2021-08-10 15:01:16.037 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:16.042 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:16.118 18597-18597/? E/id.app.taskedg: Not starting debugger since process cannot load the jdwp agent.
+2021-08-10 15:01:16.185 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:16.472 18633-18633/? E/ownload_servic: Not starting debugger since process cannot load the jdwp agent.
+2021-08-10 15:01:16.722 993-993/? E/SecVibrator-HAL-AIDL-CORE: V_1_0: Vibrator reporting capabilities
+2021-08-10 15:01:16.723 993-993/? E/SecVibrator-HAL-AIDL-CORE: HW_API: isNodeExist node:/timed_output/vibrator/intensity
+2021-08-10 15:01:16.723 993-993/? E/SecVibrator-HAL-AIDL-CORE: HW_API: false
+2021-08-10 15:01:16.724 993-993/? E/SecVibrator-HAL-AIDL-CORE: V_1_0: Vibrator off
+2021-08-10 15:01:16.724 993-993/? E/SecVibrator-HAL-AIDL-CORE: HW_API: >> writeNode node:/timed_output/vibrator/enable val:0
+2021-08-10 15:01:16.725 993-993/? E/SecVibrator-HAL-AIDL-CORE: HW_API: << writeNode node OK : 2
+2021-08-10 15:01:16.725 993-993/? E/SecVibrator-HAL-AIDL-CORE: V_1_0: Vibrator on for timeoutMs: 45
+2021-08-10 15:01:16.725 993-993/? E/SecVibrator-HAL-AIDL-CORE: HW_API: do_on for timeoutMs: 45
+2021-08-10 15:01:16.725 993-993/? E/SecVibrator-HAL-AIDL-CORE: HW_API: >> writeNode node:/timed_output/vibrator/enable val:45
+2021-08-10 15:01:16.725 993-993/? E/SecVibrator-HAL-AIDL-CORE: HW_API: << writeNode node OK : 3
+2021-08-10 15:01:16.771 1126-1126/? E/VibratorService: Vibration finished, cleaning up
+2021-08-10 15:01:16.771 993-993/? E/SecVibrator-HAL-AIDL-CORE: V_1_0: Vibrator off
+2021-08-10 15:01:16.771 993-993/? E/SecVibrator-HAL-AIDL-CORE: HW_API: >> writeNode node:/timed_output/vibrator/enable val:0
+2021-08-10 15:01:16.772 993-993/? E/SecVibrator-HAL-AIDL-CORE: HW_API: << writeNode node OK : 2
+2021-08-10 15:01:16.811 3172-3172/? E/pageboostd: Received HALT command code 2
+2021-08-10 15:01:16.824 10677-10677/? E/AccessibilityManager: semUpdateAssitantMenu invoking from manager:
+2021-08-10 15:01:16.851 1216-2029/? E/SemOpenPerfStorageManager: release:: Start
+2021-08-10 15:01:16.851 1216-2029/? E/SemOpenPerfStorageManager: release:: DVFS lock is already released. Previous lock will be acquire first.
+2021-08-10 15:01:16.852 2745-2745/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:16.904 3172-3172/? E/pageboostd: Received HALT command code 2
+2021-08-10 15:01:16.959 2273-27515/? E/TaskStackListenerAbstract: onTaskSnapshotChanged called by Binder.getCallingPid() 0 android.app.ITaskStackListener$Stub.onTransact:587 android.os.Binder.execTransactInternal:1195 android.os.Binder.execTransact:1159 <bottom of call stack> 
+2021-08-10 15:01:17.004 2745-2745/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:17.034 1032-3140/? E/NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::acquire()
+2021-08-10 15:01:17.242 2745-4046/? E/FrameEvents: updateAcquireFence: Did not find frame.
+2021-08-10 15:01:17.279 1032-1032/? E/Layer: [Surface(name=Task=1)/@0x9412aac - animation-leash#0] No local sync point found
+2021-08-10 15:01:17.279 1032-1032/? E/Layer: [Surface(name=Task=78)/@0xd1f148 - animation-leash#0] No local sync point found
+2021-08-10 15:01:17.302 1126-1148/? E/WindowManager: win=Window{c59859a u0 com.android.settings/com.android.settings.SubSettings} destroySurfaces: appStopped=true win.mWindowRemovalAllowed=false win.mRemoveOnExit=false win.mViewVisibility=8 caller=com.android.server.wm.ActivityRecord.destroySurfaces:5251 com.android.server.wm.ActivityRecord.destroySurfaces:5232 com.android.server.wm.ActivityRecord.notifyAppStopped:5291 com.android.server.wm.ActivityRecord.activityStopped:5918 com.android.server.wm.ActivityTaskManagerService.activityStopped:2595 android.app.IActivityTaskManager$Stub.onTransact:2223 android.os.Binder.execTransactInternal:1190 
+2021-08-10 15:01:17.311 1126-1182/? E/Native_CFMS: nativePerfMgrRemoveTask    Fail    tid : 10677    return : -1
+2021-08-10 15:01:18.575 3172-3172/? E/pageboostd: Received HALT command code 2
+2021-08-10 15:01:19.429 15091-15091/? E/[+8]oneconnect[1.7.69.23_01][CORE]: WS¡ùBindKeeper.requestUnbind - [WS¡ùWearableManager]
+2021-08-10 15:01:19.437 15091-15091/? E/[+8]oneconnect[1.7.69.23_01][CORE]: SepBleHelper.stopLeScan - mBtAdapter is null or LE is not ON state
+2021-08-10 15:01:19.448 15091-15091/? E/OIC_CA_LE_CLIENT_1023: g_context is null
+2021-08-10 15:01:19.448 15091-15091/? E/OIC_CA_LE_CLIENT_1023: CALECreateJniInterfaceObject has failed
+2021-08-10 15:01:19.448 15091-15091/? E/OIC_CA_LE_SERVER: g_context is null
+2021-08-10 15:01:19.448 15091-15091/? E/OIC_CA_LE_SERVER: CALEServerCreateJniInterfaceObject has failed
+2021-08-10 15:01:19.448 15091-15091/? E/OIC_CA_LE_ADAP: CAInitializeLEGattServer() failed
+2021-08-10 15:01:19.448 15091-15091/? E/OIC_CA_IP_MONITOR: unable to get application context
+2021-08-10 15:01:19.448 15091-15091/? E/OIC_CA_IP_MONITOR: failed to initialize ip jni interface
+2021-08-10 15:01:19.448 15091-15091/? E/OIC_CA_INF_CTR: adapter info [2]
+2021-08-10 15:01:19.449 15091-15091/? E/OIC_CA_INF_CTR: unknown connectivity type!
+2021-08-10 15:01:19.449 15091-15091/? E/OIC_CA_IP_MONITOR: unable to get application context
+2021-08-10 15:01:19.449 15091-15091/? E/OIC_CA_IP_MONITOR: failed to initialize ip jni interface
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_IP_SERVER_1023:        IPv4 IP_ADD_MEMBERSHIP failed: Bad file descriptor
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_IP_SERVER_1023: SECURE IPv4 IP_ADD_MEMBERSHIP failed: Bad file descriptor
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_INF_CTR: adapter info [2]
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_INF_CTR: unknown connectivity type!
+2021-08-10 15:01:19.451 15091-15091/? E/OIC_CA_TCP_SERVER_1023: unable to get application context
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_CA_IP_SERVER_1023: IPv6 IPV6_JOIN_GROUP failed: Bad file descriptor
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_CA_IP_SERVER_1023:        IPv4 IP_ADD_MEMBERSHIP failed: Bad file descriptor
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_CA_IP_SERVER_1023: SECURE IPv4 IP_ADD_MEMBERSHIP failed: Bad file descriptor
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_CA_INF_CTR: adapter info [2]
+2021-08-10 15:01:19.454 15091-15091/? E/OIC_SRM_PSI: ps is NULL
+2021-08-10 15:01:19.455 15091-15091/? E/OIC_SRM_PSI: ps is NULL
+2021-08-10 15:01:19.455 15091-15091/? E/OIC_SRM_PSI: GetSecureVirtualDatabaseFromPS() is failed(255)
+2021-08-10 15:01:19.455 15091-15091/? E/OIC_SRM_PSI: ps is NULL
+2021-08-10 15:01:19.455 15091-15091/? E/OIC_SRM_PSI: WritePSIDatabase() is failed(51)
+2021-08-10 15:01:19.455 15091-15091/? A/OIC_SRM_DOXM: UpdatePersistentStorage failed!
+2021-08-10 15:01:19.455 15091-15091/? E/OIC_SRM_PSI: ps is NULL
+2021-08-10 15:01:19.455 15091-15091/? E/OIC_SRM_PSI: ps is NULL
+2021-08-10 15:01:19.455 15091-15091/? E/OIC_SRM_PSI: ps is NULL
+2021-08-10 15:01:19.455 15091-15091/? E/OIC_SRM_PSI: ps is NULL
+2021-08-10 15:01:19.455 15091-15091/? E/OIC_SRM_PSI: ps is NULL
+2021-08-10 15:01:19.455 15091-15091/? E/OIC_SRM_PSI: ps is NULL
+2021-08-10 15:01:19.456 15091-15091/? E/OIC_SRM_PSI: ps is NULL
+2021-08-10 15:01:19.456 15091-15091/? E/OIC_SRM_PSI: GetSecureVirtualDatabaseFromPS() is failed(255)
+2021-08-10 15:01:19.457 15091-15091/? E/OIC_RI_STACK: Resource not found
+2021-08-10 15:01:19.457 15091-15091/? E/OIC_RI_STACK: Resource not found
+2021-08-10 15:01:19.457 15091-15091/? E/OIC_RI_STACK: Resource not found
+2021-08-10 15:01:19.457 15091-15091/? E/OIC_RI_STACK: Resource not found
+2021-08-10 15:01:19.457 15091-15091/? E/OIC_RI_STACK: Resource not found
+2021-08-10 15:01:19.458 15091-15091/? E/OIC_RI_STACK: Resource not found
+2021-08-10 15:01:19.458 15091-15091/? E/OIC_RI_STACK: Resource not found
+2021-08-10 15:01:19.458 15091-15091/? E/OIC_RI_STACK: Resource not found
+2021-08-10 15:01:19.458 15091-15091/? E/OIC_RI_STACK: Resource not found
+2021-08-10 15:01:19.459 15091-15091/? E/OIC_CA_INF_CTR: adapter info [2]
+2021-08-10 15:01:19.459 15091-15091/? E/OIC_CA_INF_CTR: unknown transport type!
+2021-08-10 15:01:19.460 15091-18693/? E/OIC_CA_TCP_SERVER_1023: caglobals.tcp.terminate true. breaking the loop
+2021-08-10 15:01:19.461 15091-15091/? E/OIC_CA_NET_SSL: Invalid input:sendCallback is NULL
+2021-08-10 15:01:19.461 15091-15091/? E/OIC_CA_QING: thread instance is empty..
+2021-08-10 15:01:20.210 1126-2233/? E/ActivityTaskManager: Checking for the Active launch isPkgEverLaunched :true, isPkgStopped : true, isPkgSuspended : false
+2021-08-10 15:01:20.211 3172-18702/? E/pageboostd: alp start : app comevermergedragonsmagicklondikeislandscapestownanimalroyal
+2021-08-10 15:01:20.218 3172-18702/? E/pageboostd: comevermergedragonsmagicklondikeislandscapestownanimalroyal, amt 21533912 scnt 3 fcnt 0
+2021-08-10 15:01:20.219 3172-18702/? E/pageboostd: comevermergedragonsmagicklondikeislandscapestownanimalroyal, amt 0 scnt 3 fcnt 0
+2021-08-10 15:01:20.219 3172-18702/? E/pageboostd: alp end : app comevermergedragonsmagicklondikeislandscapestownanimalroyal data_amount 21533912
+2021-08-10 15:01:20.318 14007-14007/? E/wn.animal.roya: Not starting debugger since process cannot load the jdwp agent.
+2021-08-10 15:01:20.330 1032-3140/? E/NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::acquire()
+2021-08-10 15:01:20.367 3172-3172/? E/pageboostd: Received HALT command code 2
+2021-08-10 15:01:20.391 1126-2178/? E/PkgPredictorService-Collector: record changed bt=0  wifi=1 screen=0
+2021-08-10 15:01:20.393 1216-2029/? E/SemOpenPerfStorageManager: release:: Start
+2021-08-10 15:01:20.393 1216-2029/? E/SemOpenPerfStorageManager: release:: DVFS lock is already released. Previous lock will be acquire first.
+2021-08-10 15:01:20.408 1126-3809/? E/WindowManager: win=Window{535d328 u0 com.samsung.android.spay.pay.HintService} destroySurfaces: appStopped=true win.mWindowRemovalAllowed=false win.mRemoveOnExit=false win.mViewVisibility=8 caller=com.android.server.wm.WindowManagerService.tryStartExitingAnimation:2920 com.android.server.wm.WindowManagerService.relayoutWindow:2627 com.android.server.wm.Session.relayout:219 android.view.IWindowSession$Stub.onTransact:871 com.android.server.wm.Session.onTransact:145 android.os.Binder.execTransactInternal:1190 android.os.Binder.execTransact:1159 
+2021-08-10 15:01:20.471 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:20.477 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:20.483 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:20.493 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:20.493 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:20.496 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:20.500 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:20.563 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:20.567 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:20.599 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:20.654 3172-3172/? E/pageboostd: Received HALT command code 2
+2021-08-10 15:01:20.666 1032-1032/? E/Layer: [Surface(name=Task=81)/@0xfefcf57 - animation-leash#0] No local sync point found
+2021-08-10 15:01:20.666 1032-1032/? E/Layer: [Surface(name=Task=1)/@0x9412aac - animation-leash#0] No local sync point found
+2021-08-10 15:01:20.679 1126-1185/? E/WindowManager: win=Window{84c42aa u0 Splash Screen com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal EXITING} destroySurfaces: appStopped=false win.mWindowRemovalAllowed=true win.mRemoveOnExit=true win.mViewVisibility=0 caller=com.android.server.wm.ActivityRecord.destroySurfaces:5251 com.android.server.wm.ActivityRecord.destroySurfaces:5232 com.android.server.wm.WindowState.onExitAnimationDone:5623 com.android.server.wm.WindowStateAnimator.onAnimationFinished:332 com.android.server.wm.WindowState.onAnimationFinished:6088 com.android.server.wm.-$$Lambda$dwJG8BAnLlvKNGuDY9U3-haNY4M.onAnimationFinished:2 com.android.server.wm.SurfaceAnimator.lambda$getFinishedCallback$0$SurfaceAnimator:112 
+2021-08-10 15:01:20.798 1126-3809/? E/WindowManager: win=Window{6ac5cf8 u0 com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity} destroySurfaces: appStopped=true win.mWindowRemovalAllowed=false win.mRemoveOnExit=false win.mViewVisibility=8 caller=com.android.server.wm.ActivityRecord.destroySurfaces:5251 com.android.server.wm.ActivityRecord.destroySurfaces:5232 com.android.server.wm.ActivityRecord.notifyAppStopped:5291 com.android.server.wm.ActivityRecord.activityStopped:5918 com.android.server.wm.ActivityTaskManagerService.activityStopped:2595 android.app.IActivityTaskManager$Stub.onTransact:2223 android.os.Binder.execTransactInternal:1190 
+2021-08-10 15:01:20.807 1126-2463/? E/WindowManager: win=Window{5208555 u0 com.samsung.android.app.cocktailbarservice/com.samsung.android.app.cocktailbarservice.CocktailBarService} destroySurfaces: appStopped=true win.mWindowRemovalAllowed=false win.mRemoveOnExit=false win.mViewVisibility=8 caller=com.android.server.wm.WindowManagerService.tryStartExitingAnimation:2920 com.android.server.wm.WindowManagerService.relayoutWindow:2627 com.android.server.wm.Session.relayout:219 android.view.IWindowSession$Stub.onTransact:871 com.android.server.wm.Session.onTransact:145 android.os.Binder.execTransactInternal:1190 android.os.Binder.execTransact:1159 
+2021-08-10 15:01:20.886 1126-1182/? E/Native_CFMS: nativePerfMgrRemoveTask    Fail    tid : 2745    return : -1
+2021-08-10 15:01:20.897 1126-1126/? E/Native_CFMS: nativePerfMgrSendFps    Fail    fps : 120    return : -1
+2021-08-10 15:01:20.926 4407-4407/? E/UI-KeyboardView: EnShiftState.reset() failed! mKeyboard is null
+2021-08-10 15:01:20.989 6367-6367/? E/ActivityThread: Failed to find provider info for com.samsung.systemui.navillera.navilleraprovider
+2021-08-10 15:01:21.131 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.132 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.132 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.132 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.132 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.132 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.132 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.132 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.132 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.132 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.132 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.132 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.132 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.132 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.132 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.132 14007-18782/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:21.327 933-3471/? E/sm7225_platform: platform_check_backends_match: Invalid snd_device = 
+2021-08-10 15:01:21.327 933-3471/? E/tas_spk_prot: call enable_sa_path
+2021-08-10 15:01:21.327 933-3471/? E/voice: voice_is_in_call_rec_stream: input stream is NULL
+2021-08-10 15:01:21.327 933-3471/? E/voice: voice_is_in_call_rec_stream: input stream is NULL
+2021-08-10 15:01:21.370 933-3471/? E/soundtrigger: audio_extn_sound_trigger_update_stream_status: invalid input device 0x0, for event 3
+2021-08-10 15:01:21.673 1126-3789/? E/WallpaperManagerService: landscapeColors is calculated already
+2021-08-10 15:01:21.835 1032-3140/? E/NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::acquire()
+2021-08-10 15:01:21.940 14314-14314/? E/DeXUtil: DesktopModeManager is null, so it can't be decided.
+2021-08-10 15:01:22.943 14314-14314/? E/DeXUtil: DesktopModeManager is null, so it can't be decided.
+2021-08-10 15:01:23.301 1126-3603/? E/TaskPersister: File error accessing recents directory (directory doesn't exist?).
+2021-08-10 15:01:23.338 1032-3140/? E/NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::acquire()
+2021-08-10 15:01:23.831 1126-2453/? E/SensorService: BigData:Pakage) 1 already enabled. 
+2021-08-10 15:01:23.850 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:23.892 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:23.900 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:23.923 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:23.948 14314-14314/? E/DeXUtil: DesktopModeManager is null, so it can't be decided.
+2021-08-10 15:01:24.854 1032-3140/? E/NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::acquire()
+2021-08-10 15:01:24.882 993-993/? E/SecVibrator-HAL-AIDL-CORE: V_1_0: Vibrator reporting capabilities
+2021-08-10 15:01:24.882 993-993/? E/SecVibrator-HAL-AIDL-CORE: HW_API: isNodeExist node:/timed_output/vibrator/intensity
+2021-08-10 15:01:24.882 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:24.883 993-993/? E/SecVibrator-HAL-AIDL-CORE: HW_API: false
+2021-08-10 15:01:25.027 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:25.519 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:25.569 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:25.689 1126-1126/? E/Native_CFMS: nativePerfMgrSendFps    Fail    fps : 120    return : -1
+2021-08-10 15:01:25.771 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.771 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.779 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.779 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.788 1126-3826/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.788 1126-3826/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.788 1126-3826/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.796 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.796 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.796 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.804 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.804 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.804 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.812 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.812 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.812 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.821 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.821 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.821 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.829 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.829 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.829 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.837 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.838 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.838 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.845 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.845 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.846 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.854 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.854 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.854 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.862 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.862 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.862 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.871 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.871 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.871 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.879 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.879 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.879 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.887 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.887 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.887 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.895 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.895 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.895 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.903 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.903 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.904 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.912 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.912 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.912 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.921 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.921 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.921 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.929 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.929 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.929 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.937 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.946 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.954 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.962 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.970 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.978 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.987 1126-2611/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:25.996 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.003 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.012 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.021 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.029 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.037 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.045 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.050 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:26.053 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.061 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.068 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:26.070 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.078 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.086 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.095 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.103 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.111 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.120 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.128 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.137 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.145 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.153 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.161 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.169 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.178 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.186 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.195 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.203 1126-3760/? E/Region: Region::unflatten() failed, invalid region
+2021-08-10 15:01:26.363 1032-3140/? E/NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::acquire()
+2021-08-10 15:01:27.615 18971-18971/? E/libc: SetHeapTaggingLevel: re-enabling tagging after it was disabled is not supported
+2021-08-10 15:01:27.615 18958-18958/? E/webview_servic: Not starting debugger since process cannot load the jdwp agent.
+2021-08-10 15:01:27.646 18971-18971/? E/ocessService0:: Not starting debugger since process cannot load the jdwp agent.
+2021-08-10 15:01:27.764 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:27.765 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:27.855 14007-18934/? E/libc: Access denied finding property "vzw.os.rooted"
+2021-08-10 15:01:27.856 768-768/? E/audit: type=1400 audit(1628578887.851:1543373): avc:  denied  { read } for  pid=14007 comm="Thread-21" name="u:object_r:vzw_os_prop:s0" dev="tmpfs" ino=2493 scontext=u:r:untrusted_app:s0:c51,c257,c512,c768 tcontext=u:object_r:vzw_os_prop:s0 tclass=file permissive=0 SEPF_SM-A5260_11_0010 audit_filtered
+2021-08-10 15:01:27.856 768-768/? E/audit: type=1300 audit(1628578887.851:1543373): arch=c00000b7 syscall=56 success=no exit=-13 a0=ffffff9c a1=7209704718 a2=88000 a3=0 items=0 ppid=788 pid=14007 auid=4294967295 uid=10307 gid=10307 euid=10307 suid=10307 fsuid=10307 egid=10307 sgid=10307 fsgid=10307 tty=(none) ses=4294967295 comm="Thread-21" exe="/system/bin/app_process64" subj=u:r:untrusted_app:s0:c51,c257,c512,c768 key=(null)
+2021-08-10 15:01:27.856 768-768/? E/audit: type=1327 audit(1628578887.851:1543373): proctitle="com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal"
+2021-08-10 15:01:27.867 1032-3140/? E/NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::acquire()
+2021-08-10 15:01:27.874 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:27.874 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:27.964 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:27.971 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:27.985 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:27.997 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:28.001 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:28.101 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:28.117 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:28.652 16050-16238/? E/[SCSDK][C][2.0.00]: [SContext]context is null
+2021-08-10 15:01:28.653 16050-16238/? E/[SCSDK][C][2.0.00]: [SamsungCloudPolicy]Cloud SDK is not initialized.
+2021-08-10 15:01:28.657 16050-16238/? E/[SC][ExceptionHandler][0]: exception caught.
+    com.samsung.android.sdk.scloud.exception.SamsungCloudException: Cloud SDK is not initialized.
+        at com.samsung.android.sdk.scloud.decorator.AbstractDecorator.<init>(AbstractDecorator.java:27)
+        at com.samsung.android.sdk.scloud.decorator.policy.SamsungCloudPolicy.<init>(SamsungCloudPolicy.java:43)
+        at java.lang.reflect.Constructor.newInstance0(Native Method)
+        at java.lang.reflect.Constructor.newInstance(Constructor.java:343)
+        at com.samsung.android.scloud.common.appcontext.SCAppContext.lambda$sdk$22(SCAppContext.java:91)
+        at com.samsung.android.scloud.common.appcontext.-$$Lambda$SCAppContext$s5nET9-lX1H9P348nlCrDzfYSYg.get(Unknown Source:2)
+        at com.samsung.android.scloud.common.exception.ExceptionHandler.commit(ExceptionHandler.java:212)
+        at com.samsung.android.scloud.common.appcontext.SCAppContext.sdk(SCAppContext.java:92)
+        at com.samsung.android.scloud.app.core.requesterbrokers.PolicyRequesterBroker.lambda$null$0$PolicyRequesterBroker(PolicyRequesterBroker.java:49)
+        at com.samsung.android.scloud.app.core.requesterbrokers.-$$Lambda$PolicyRequesterBroker$OTNNZy07gi8WtMYBoVAX9mQ8ueg.get(Unknown Source:2)
+        at com.samsung.android.scloud.common.exception.ExceptionHandler.commit(ExceptionHandler.java:212)
+        at com.samsung.android.scloud.app.core.requesterbrokers.PolicyRequesterBroker.lambda$makeRequester$1$PolicyRequesterBroker(PolicyRequesterBroker.java:50)
+        at com.samsung.android.scloud.app.core.requesterbrokers.-$$Lambda$PolicyRequesterBroker$FgHy6Jte2jto4USMGvP0yuKxnHQ.call(Unknown Source:2)
+        at com.samsung.android.scloud.app.framework.request.RequesterBroker$3.run(RequesterBroker.java:146)
+        at java.lang.Thread.run(Thread.java:923)
+2021-08-10 15:01:28.659 16050-16238/? E/[SC][ExceptionHandler][0]: exception caught.
+2021-08-10 15:01:28.924 2254-2959/? E/PhoneInterfaceManager: [PhoneIntfMgr] getIccId: No UICC
+2021-08-10 15:01:28.934 2254-2959/? E/DatabaseUtils: Writing exception to parcel
+    java.lang.SecurityException: No permission to access APN settings
+        at com.android.providers.telephony.TelephonyProvider.checkPermission(TelephonyProvider.java:6141)
+        at com.android.providers.telephony.TelephonyProvider.checkPermissionCompat(TelephonyProvider.java:6158)
+        at com.android.providers.telephony.TelephonyProvider.query(TelephonyProvider.java:4469)
+        at android.content.ContentProvider.query(ContentProvider.java:1420)
+        at android.content.ContentProvider.query(ContentProvider.java:1516)
+        at android.content.ContentProvider$Transport.query(ContentProvider.java:278)
+        at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:106)
+        at android.os.Binder.execTransactInternal(Binder.java:1190)
+        at android.os.Binder.execTransact(Binder.java:1159)
+2021-08-10 15:01:28.935 18461-18521/? E/RequestContextBuilder: Could not query TelephonyProvider
+    java.lang.SecurityException: No permission to access APN settings
+        at android.os.Parcel.createExceptionOrNull(Parcel.java:2385)
+        at android.os.Parcel.createException(Parcel.java:2369)
+        at android.os.Parcel.readException(Parcel.java:2352)
+        at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:190)
+        at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:142)
+        at android.content.ContentProviderProxy.query(ContentProviderNative.java:472)
+        at android.content.ContentResolver.query(ContentResolver.java:1193)
+        at android.content.ContentResolver.query(ContentResolver.java:1125)
+        at android.content.ContentResolver.query(ContentResolver.java:1081)
+        at angn.c(PG:26)
+        at angh.r(PG:38)
+        at angh.n(PG:40)
+        at hgj.call(PG:46)
+        at aplz.a(Unknown Source:2)
+        at apld.run(PG:3)
+        at apma.run(Unknown Source:4)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at lgj.run(PG:14)
+        at java.lang.Thread.run(Thread.java:923)
+2021-08-10 15:01:29.062 14007-18999/? E/Volley: [4128] BasicNetwork.performRequest: Unexpected response code 400 for https://ads.mopub.com/m/gdpr_sync
+2021-08-10 15:01:29.255 15887-15887/? E/MdxKitService: (DeviceConnectionServiceViewModelImpl) terminate()-[td:main] killProcess, pid: 15887
+2021-08-10 15:01:29.583 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:29.586 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:29.603 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:29.603 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:29.929 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:29.975 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:30.025 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:30.130 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:30.149 14007-19121/? E/GmsClient: unable to connect to service: com.google.android.gms.leibniz.events.service.START on com.google.android.gms
+2021-08-10 15:01:31.039 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:31.040 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:31.092 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:31.188 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:31.262 1032-3140/? E/NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::acquire()
+2021-08-10 15:01:35.448 16050-17594/? E/[SCSDK][C][2.0.00]: [SContext]context is null
+2021-08-10 15:01:35.448 16050-17594/? E/[SCSDK][C][2.0.00]: [SamsungCloudNotification]Cloud SDK is not initialized.
+2021-08-10 15:01:35.451 16050-17594/? E/[SC][ExceptionHandler][0]: exception caught.
+    com.samsung.android.sdk.scloud.exception.SamsungCloudException: Cloud SDK is not initialized.
+        at com.samsung.android.sdk.scloud.decorator.AbstractDecorator.<init>(AbstractDecorator.java:27)
+        at com.samsung.android.sdk.scloud.decorator.notification.SamsungCloudNotification.<init>(SamsungCloudNotification.java:32)
+        at java.lang.reflect.Constructor.newInstance0(Native Method)
+        at java.lang.reflect.Constructor.newInstance(Constructor.java:343)
+        at com.samsung.android.scloud.common.appcontext.SCAppContext.lambda$sdk$22(SCAppContext.java:91)
+        at com.samsung.android.scloud.common.appcontext.-$$Lambda$SCAppContext$s5nET9-lX1H9P348nlCrDzfYSYg.get(Unknown Source:2)
+        at com.samsung.android.scloud.common.exception.ExceptionHandler.commit(ExceptionHandler.java:212)
+        at com.samsung.android.scloud.common.appcontext.SCAppContext.sdk(SCAppContext.java:92)
+        at com.samsung.android.scloud.app.announcement.util.AnnouncementUtil.lambda$static$0(AnnouncementUtil.java:42)
+        at com.samsung.android.scloud.app.announcement.util.-$$Lambda$AnnouncementUtil$Oa5pPhoU-RrVHdtnMOFqyjYqnjA.get(Unknown Source:0)
+        at com.samsung.android.scloud.app.announcement.util.-$$Lambda$gjVY_BuX-qHvO3VxLZpoqg3zptA.run(Unknown Source:2)
+        at java.lang.Thread.run(Thread.java:923)
+2021-08-10 15:01:35.452 16050-17594/? E/[SC]AnnouncementUtil: [E] Fail to save notice : null 
+2021-08-10 15:01:35.814 1126-1290/? E/Watchdog: !@Sync: 630 heap: 56 / 77 [2021-08-10 15:01:35.814] sdogWay: softdog FD: 759
+2021-08-10 15:01:36.392 14007-18782/? E/Unity: Using memoryadresses from more than 16GB of memory
+    UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+    Solar.Runtime.PrefabLoadManager:InstanceGO(PrefabObject, Transform)
+    XLua.CSObjectWrap.SolarRuntimeAssetComponentWrap:_m_LoadPrefabSync(IntPtr)
+    
+    [ line 120] 
+    (Filename:  Line: 120)
+2021-08-10 15:01:36.755 19176-19176/? E/chromium: [0810/150136.755023:ERROR:elf_dynamic_array_reader.h(61)] tag not found
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH: *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH: Version '2019.4.7f1 (e992b1a16e65)', Build type 'Release', Scripting Backend 'il2cpp', CPU 'arm64-v8a'
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH: Build fingerprint: 'samsung/a52xqzc/a52xq:11/RP1A.200720.012/A5260ZCU1AUF4:user/release-keys'
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH: Revision: '6'
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH: ABI: 'arm64'
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH: Timestamp: 2021-08-10 15:01:36+0800
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH: pid: 14007, tid: 18782, name: UnityMain  >>> com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal <<<
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH: uid: 10307
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH: signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x3e9
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH: Cause: null pointer dereference
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH:     x0  0000000000000001  x1  0000007180000220  x2  0000000000000001  x3  00000071ff83d991
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH:     x4  000000000000017a  x5  0000000000008000  x6  53736d647543ff6f  x7  7f7f7f7f7f7f7f7f
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH:     x8  0000000000000001  x9  ed294c8951f1e95c  x10 0000000000000010  x11 0000000000000001
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH:     x12 0000000000000124  x13 0000079c58230670  x14 0000000000000000  x15 0000000034155555
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH:     x16 00000071ffbb1a40  x17 000000751f53bb6c  x18 0000000000000000  x19 00000071ffbf2e00
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH:     x20 b4000070fb627050  x21 00000071ffbf2ea8  x22 000000000000007d  x23 00000071ffbe2250
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH:     x24 0000000000000010  x25 000000000000002a  x26 000000000000002a  x27 00000071ffbe3a86
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH:     x28 0000000000000018  x29 0000000000003234
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH:     sp  000000720ca9a2b0  lr  00000071ff1db1bc  pc  00000071ff1db204
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH: backtrace:
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH:       #00 pc 0000000000c17204  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH:       #01 pc 0000000000c16da4  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH:       #02 pc 0000000000c16cf4  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH:       #03 pc 0000000000407d64  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH:       #04 pc 000000000040dcb8  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+2021-08-10 15:01:36.774 14007-18782/? E/CRASH:       #05 pc 000000000055de4c  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+2021-08-10 15:01:36.775 14007-18782/? E/CRASH:       #06 pc 0000000000c36248  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+2021-08-10 15:01:36.775 14007-18782/? E/CRASH:       #07 pc 000000000042ed60  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+2021-08-10 15:01:36.775 14007-18782/? E/CRASH:       #08 pc 000000000042ec94  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+2021-08-10 15:01:36.775 14007-18782/? E/CRASH:       #09 pc 000000000042f48c  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+2021-08-10 15:01:36.775 14007-18782/? E/CRASH:       #10 pc 000000000042f774  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+2021-08-10 15:01:36.775 14007-18782/? E/CRASH:       #11 pc 00000000006aef18  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+2021-08-10 15:01:36.775 14007-18782/? E/CRASH:       #12 pc 0000000001b528ac  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libil2cpp.so (BuildId: 7ecf802bc9fdc85e1a68fa0d36d70261d81cc68c)
+2021-08-10 15:01:36.775 14007-18782/? E/CRASH:       #13 pc 0000000001027520  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libil2cpp.so (BuildId: 7ecf802bc9fdc85e1a68fa0d36d70261d81cc68c)
+2021-08-10 15:01:36.775 14007-18782/? E/CRASH:       #14 pc 0000000001c266d8  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libil2cpp.so (BuildId: 7ecf802bc9fdc85e1a68fa0d36d70261d81cc68c)
+2021-08-10 15:01:36.775 14007-18782/? E/CRASH:       #15 pc 0000000000d63458  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libil2cpp.so (BuildId: 7ecf802bc9fdc85e1a68fa0d36d70261d81cc68c)
+2021-08-10 15:01:36.775 14007-18782/? E/CRASH:       #16 pc 00000000005b2c4c  <anonymous:0000007209eda000>
+2021-08-10 15:01:36.975 14007-18782/? E/CRASH: Tombstone written to: /storage/emulated/0/Android/data/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal/files/tombstone_00
+    
+    --------- beginning of crash
+2021-08-10 15:01:36.975 14007-18782/? E/AndroidRuntime: FATAL EXCEPTION: UnityMain
+    Process: com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal, PID: 14007
+    java.lang.Error: *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+    Version '2019.4.7f1 (e992b1a16e65)', Build type 'Release', Scripting Backend 'il2cpp', CPU 'arm64-v8a'
+    Build fingerprint: 'samsung/a52xqzc/a52xq:11/RP1A.200720.012/A5260ZCU1AUF4:user/release-keys'
+    Revision: '6'
+    ABI: 'arm64'
+    Timestamp: 2021-08-10 15:01:36+0800
+    pid: 14007, tid: 18782, name: UnityMain  >>> com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal <<<
+    uid: 10307
+    signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x3e9
+    Cause: null pointer dereference
+        x0  0000000000000001  x1  0000007180000220  x2  0000000000000001  x3  00000071ff83d991
+        x4  000000000000017a  x5  0000000000008000  x6  53736d647543ff6f  x7  7f7f7f7f7f7f7f7f
+        x8  0000000000000001  x9  ed294c8951f1e95c  x10 0000000000000010  x11 0000000000000001
+        x12 0000000000000124  x13 0000079c58230670  x14 0000000000000000  x15 0000000034155555
+        x16 00000071ffbb1a40  x17 000000751f53bb6c  x18 0000000000000000  x19 00000071ffbf2e00
+        x20 b4000070fb627050  x21 00000071ffbf2ea8  x22 000000000000007d  x23 00000071ffbe2250
+        x24 0000000000000010  x25 000000000000002a  x26 000000000000002a  x27 00000071ffbe3a86
+        x28 0000000000000018  x29 0000000000003234
+        sp  000000720ca9a2b0  lr  00000071ff1db1bc  pc  00000071ff1db204
+    
+    backtrace:
+          #00 pc 0000000000c17204  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+          #01 pc 0000000000c16da4  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+          #02 pc 0000000000c16cf4  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+          #03 pc 0000000000407d64  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+          #04 pc 000000000040dcb8  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+          #05 pc 000000000055de4c  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+          #06 pc 0000000000c36248  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+          #07 pc 000000000042ed60  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+          #08 pc 000000000042ec94  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+          #09 pc 000000000042f48c  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+2021-08-10 15:01:36.975 14007-18782/? E/AndroidRuntime:       #10 pc 000000000042f774  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+          #11 pc 00000000006aef18  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libunity.so (BuildId: 921d6367a4b889747edeccddd48751f122d572cc)
+          #12 pc 0000000001b528ac  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libil2cpp.so (BuildId: 7ecf802bc9fdc85e1a68fa0d36d70261d81cc68c)
+          #13 pc 0000000001027520  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libil2cpp.so (BuildId: 7ecf802bc9fdc85e1a68fa0d36d70261d81cc68c)
+          #14 pc 0000000001c266d8  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libil2cpp.so (BuildId: 7ecf802bc9fdc85e1a68fa0d36d70261d81cc68c)
+          #15 pc 0000000000d63458  /data/app/~~4YgNB13wQgGDI9nSvPcwIA==/com.ever.merge.dragons.magic.klondike.island.scapes.town.animal.royal-GDRaBcUE0_CrBNG5V8OoLg==/lib/arm64/libil2cpp.so (BuildId: 7ecf802bc9fdc85e1a68fa0d36d70261d81cc68c)
+          #16 pc 00000000005b2c4c  <anonymous:0000007209eda000>
+    
+        at libunity.0xc17204(Native Method)
+        at libunity.0xc16da4(Native Method)
+        at libunity.0xc16cf4(Native Method)
+        at libunity.0x407d64(Native Method)
+        at libunity.0x40dcb8(Native Method)
+        at libunity.0x55de4c(Native Method)
+        at libunity.0xc36248(Native Method)
+        at libunity.0x42ed60(Native Method)
+        at libunity.0x42ec94(Native Method)
+        at libunity.0x42f48c(Native Method)
+        at libunity.0x42f774(Native Method)
+        at libunity.0x6aef18(Native Method)
+        at libil2cpp.0x1b528ac(Native Method)
+        at libil2cpp.0x1027520(Native Method)
+        at libil2cpp.0x1c266d8(Native Method)
+        at libil2cpp.0xd63458(Native Method)
+        at Unknown.0x720a48cc4c(Unknown Source:0)
+2021-08-10 15:01:36.983 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:36.988 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:37.255 2273-15311/? E/TaskStackListenerAbstract: onTaskSnapshotChanged called by Binder.getCallingPid() 0 android.app.ITaskStackListener$Stub.onTransact:587 android.os.Binder.execTransactInternal:1195 android.os.Binder.execTransact:1159 <bottom of call stack> 
+2021-08-10 15:01:37.310 1216-2029/? E/SemOpenPerfStorageManager: release:: Start
+2021-08-10 15:01:37.310 1216-2029/? E/SemOpenPerfStorageManager: release:: DVFS lock is already released. Previous lock will be acquire first.
+2021-08-10 15:01:37.388 19197-19197/? E/android.dqagen: Not starting debugger since process cannot load the jdwp agent.
+2021-08-10 15:01:37.420 3172-3172/? E/pageboostd: Received HALT command code 2
+2021-08-10 15:01:37.453 2745-2745/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:37.526 2745-2745/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:37.566 3172-3172/? E/pageboostd: Received HALT command code 2
+2021-08-10 15:01:37.575 3172-3172/? E/pageboostd: Received HALT command code 2
+2021-08-10 15:01:37.580 6367-6367/? E/ActivityThread: Failed to find provider info for com.samsung.systemui.navillera.navilleraprovider
+2021-08-10 15:01:37.583 6367-6367/? E/ActivityThread: Failed to find provider info for com.samsung.systemui.navillera.navilleraprovider
+2021-08-10 15:01:37.723 6367-6367/? E/CocktailBarContainerView: updateContainerVisibility: 
+2021-08-10 15:01:37.736 1126-1126/? E/Native_CFMS: nativePerfMgrSendFps    Fail    fps : 120    return : -1
+2021-08-10 15:01:37.737 4407-4407/? E/UI-KeyboardView: EnShiftState.reset() failed! mKeyboard is null
+2021-08-10 15:01:37.743 6367-6367/? E/CocktailBarContainerView: updateContainerVisibility: 
+2021-08-10 15:01:37.745 6367-6367/? E/ActivityThread: Failed to find provider info for com.samsung.systemui.navillera.navilleraprovider
+2021-08-10 15:01:37.757 2745-2745/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:37.785 3172-3172/? E/pageboostd: Received HALT command code 2
+2021-08-10 15:01:37.815 2745-2745/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:01:37.828 1032-3140/? E/NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::acquire()
+2021-08-10 15:01:37.861 1126-1182/? E/Native_CFMS: nativePerfMgrRemoveTask    Fail    tid : 14007    return : -1
+2021-08-10 15:01:38.135 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:01:38.135 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:01:38.146 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:01:38.147 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:01:38.157 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:01:38.157 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:01:38.171 1126-3757/? E/WallpaperManagerService: landscapeColors is calculated already
+2021-08-10 15:01:38.248 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:01:38.251 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:01:38.283 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:01:38.283 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:01:38.313 1126-1367/? E/KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu6/cpufreq/stats/time_in_state: open failed: ENOENT (No such file or directory)
+2021-08-10 15:01:38.314 1126-1367/? E/KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state: open failed: ENOENT (No such file or directory)
+2021-08-10 15:01:38.315 680-687/? E/android.system.suspend@1.0-service: Error opening event_count for wakeup48: Original kwl [Path]=../../devices/platform/soc/984000.i2c/i2c-34/34-0049/sm5714-charger/power_supply/sm5714-charger/wakeup48: Permission denied
+2021-08-10 15:01:38.316 768-768/? E/audit: type=1400 audit(1628578898.311:1543374): avc:  denied  { read } for  pid=680 comm="Binder:680_2" name="event_count" dev="sysfs" ino=67478 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=file permissive=0 SEPF_SM-A5260_11_0010 audit_filtered
+2021-08-10 15:01:38.316 768-768/? E/audit: type=1300 audit(1628578898.311:1543374): arch=c00000b7 syscall=56 success=no exit=-13 a0=d a1=74184815e9 a2=80000 a3=0 items=0 ppid=1 pid=680 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="Binder:680_2" exe="/system/bin/hw/android.system.suspend@1.0-service" subj=u:r:system_suspend:s0 key=(null)
+2021-08-10 15:01:38.316 768-768/? E/audit: type=1327 audit(1628578898.311:1543374): proctitle="/system/bin/hw/android.system.suspend@1.0-service"
+2021-08-10 15:01:38.316 768-768/? E/audit: type=1400 audit(1628578898.311:1543375): avc:  denied  { read } for  pid=680 comm="Binder:680_2" name="max_time_ms" dev="sysfs" ino=67483 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=file permissive=0 SEPF_SM-A5260_11_0010 audit_filtered
+2021-08-10 15:01:38.316 768-768/? E/audit: type=1300 audit(1628578898.311:1543375): arch=c00000b7 syscall=56 success=no exit=-13 a0=d a1=74184815e9 a2=80000 a3=0 items=0 ppid=1 pid=680 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="Binder:680_2" exe="/system/bin/hw/android.system.suspend@1.0-service" subj=u:r:system_suspend:s0 key=(null)
+2021-08-10 15:01:38.334 680-687/? E/android.system.suspend@1.0-service: Error opening event_count for wakeup49: Original kwl [Path]=../../devices/platform/soc/984000.i2c/i2c-34/34-0049/sm5714-charger/power_supply/otg/wakeup49: Permission denied
+2021-08-10 15:01:38.347 680-687/? E/android.system.suspend@1.0-service: Error opening event_count for wakeup43: Original kwl [Path]=../../devices/platform/soc/984000.i2c/i2c-34/34-0049/sm5714-fuelgauge/power_supply/sm5714-fuelgauge/wakeup43: Permission denied
+2021-08-10 15:01:38.350 680-687/? E/android.system.suspend@1.0-service: Error opening event_count for wakeup41: Original kwl [Path]=../../devices/platform/soc/984000.i2c/i2c-34/34-0057/power_supply/pca9468-charger/wakeup41: Permission denied
+2021-08-10 15:01:39.263 19253-19253/? E/wn.animal.roya: Not starting debugger since process cannot load the jdwp agent.
+2021-08-10 15:01:39.423 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:39.424 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:39.427 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:39.491 1032-3140/? E/NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::acquire()
+2021-08-10 15:01:39.544 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:39.546 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:39.546 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:01:40.794 2745-4046/? E/FrameEvents: updateAcquireFence: Did not find frame.
+2021-08-10 15:01:41.241 1126-3603/? E/TaskPersister: File error accessing recents directory (directory doesn't exist?).
+2021-08-10 15:01:41.445 933-1927/? E/soundtrigger: audio_extn_sound_trigger_update_stream_status: invalid input device 0x0, for event 2
+2021-08-10 15:01:44.019 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:01:44.019 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:01:54.110 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:01:54.110 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:02:00.015 2745-2745/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:02:00.065 2745-2745/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2021-08-10 15:02:00.071 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:02:00.071 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:02:04.175 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:02:04.176 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:02:05.837 1126-1290/? E/Watchdog: !@Sync: 631 heap: 64 / 77 [2021-08-10 15:02:05.836] sdogWay: softdog FD: 750
+2021-08-10 15:02:14.209 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:02:14.209 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:02:14.593 768-768/? E/audit: type=1400 audit(1628578934.591:1543414): avc:  denied  { kill } for  pid=8653 comm="kworker/u16:15" capability=5  scontext=u:r:kernel:s0 tcontext=u:r:kernel:s0 tclass=capability permissive=0 SEPF_SM-A5260_11_0010 audit_filtered
+2021-08-10 15:02:15.241 787-803/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:02:15.741 787-808/? E/Netd: getNetworkForDns: getNetId from enterpriseCtrl is netid 0
+2021-08-10 15:02:24.292 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:02:24.292 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:02:34.377 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:02:34.377 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:02:34.675 2273-2273/? E/ExpandableNotifRow: onNotificationUpdated() NSSL is null..
+2021-08-10 15:02:35.850 1126-1290/? E/Watchdog: !@Sync: 632 heap: 66 / 77 [2021-08-10 15:02:35.850] sdogWay: softdog FD: 754
+2021-08-10 15:02:44.437 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
+2021-08-10 15:02:44.437 2273-17730/? E/IndicatorGardenAlgorithmBasicCutout: NOT MATCH !!!! resourceHeight:87, cutoutHeight:88 ([IndicatorGardenInputProperty]  Rotation(0-0,90-1,180-2,270-3)0, Density:2.625, ScreenWidthSize:1080, CoverSidePadding:0, mIndicatorGardenCenterOffset:11, mCameraCutoutCropSize:0, mGardenPaddingStart:21, mIndicatorCornerPadding:72, mCameraSidePadding:36, mCameraTopMargin:33, DpCutout:DisplayCutout{insets=Rect(0, 88 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(512, 0 - 568, 88), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]}}) 
